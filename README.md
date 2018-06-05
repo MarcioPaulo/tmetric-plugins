@@ -47,7 +47,7 @@ Web browsers are **Chrome**, **Firefox**, **Edge**, and **Opera**.
 * [Zoho CRM](https://www.zoho.com/crm)
 
 ## Installing from Web store
-* **Chrome** -  https://chrome.google.com/webstore/detail/tmetric-%E2%80%93-time-tracker-pr/oabiacagiomjmgfggeclbcpcgfbkeako
+* **Chrome** -  https://chrome.google.com/webstore/detail/tmetric-extension/ffijoclmniipjbhecddgkfpdafpbdnen
 * **Firefox** - https://addons.mozilla.org/en-US/firefox/addon/tmetric-extension/
 * **Edge** - https://www.microsoft.com/store/apps/9n4sfvphnpxr
 * **Opera** - https://addons.opera.com/en/extensions/details/tmetric-extension/
